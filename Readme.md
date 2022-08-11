@@ -10,10 +10,7 @@ Configure the AWS CLI
 
 ## Step 1. Install AWS CLI v2
 
-
-![InstallAWS](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html?raw=true "InstallAWS")
-
-
+<a href="https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html" target="_blank">Install AWS</a>
 
 
 
