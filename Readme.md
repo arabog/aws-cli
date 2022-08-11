@@ -62,8 +62,8 @@ In case, you want to change the region in a given profile
 `aws configure set region us-east-1`  
 
 *Let the system know that your sensitive information is residing in the .aws folder*  
-export AWS_CONFIG_FILE=~/.aws/config  
-export AWS_SHARED_CREDENTIALS_FILE=~/.aws/credentials  
+`export AWS_CONFIG_FILE=~/.aws/config`  
+`export AWS_SHARED_CREDENTIALS_FILE=~/.aws/credentials`  
 
 ## Step 4. Run your first AWS CLI command
 Check the successful configuration of the AWS CLI, by running either of the following AWS command:  
