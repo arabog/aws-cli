@@ -56,9 +56,9 @@ The command above will store the access key in a default file ~/.aws/credentials
 View the current configuration  
 `aws configure list`  
 View all existing profile names  
-`aws configure list-profiles`
+`aws configure list-profiles`  
 In case, you want to change the region in a given profile  
-`aws configure set <parameter> <value>  --profile <profile-name>`
+`aws configure set <parameter> <value>  --profile <profile-name>`  
 `aws configure set region us-east-1`  
 
 *Let the system know that your sensitive information is residing in the .aws folder*  
